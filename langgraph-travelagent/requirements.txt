@@ -1,0 +1,9 @@
+requests
+langgraph
+gradio
+langchain
+pydantic
+python-dotenv
+langchain_community
+langchain-groq
+langsmith
